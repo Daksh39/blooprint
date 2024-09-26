@@ -36,11 +36,11 @@ Create a backend API for managing inventory items with CRUD operations, JWT auth
     pip install -r requirements.txt
 
 3. **Set Up the Database**
-   '''bash
+   ```bash
    python manage.py migrate
 
 4. **Create a Superuser**
-    '''bash
+    ```bash
     python manage.py createsuperuser
 
 5. **Run the Development Server**
@@ -48,5 +48,5 @@ Create a backend API for managing inventory items with CRUD operations, JWT auth
     python manage.py runserver
 
 6. **Running Tests**
-   '''bash
+   ```bash
    python manage.py test
