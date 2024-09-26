@@ -29,7 +29,7 @@ Create a backend API for managing inventory items with CRUD operations, JWT auth
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Daksh39/blog-django.git
+   git clone https://github.com/Daksh39/blooprint.git
 
 2. **Install Dependencies**
     ```bash
