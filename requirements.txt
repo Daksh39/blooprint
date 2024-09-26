@@ -1,0 +1,6 @@
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary 
+redis
+django-redis
+python-dotenv
